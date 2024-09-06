@@ -80,7 +80,7 @@
           <mxGeometry x="33" y="276" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NINpWwsf7RTbn7kXsZDK-59" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#ffffff;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.inspection_forensics;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="596" y="58" width="49" height="35" as="geometry" />
+          <mxGeometry x="778" y="58" width="49" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NINpWwsf7RTbn7kXsZDK-60" value="&lt;font face=&quot;Exo&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Exo&quot;&gt;CERTIFIED&lt;/font&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.certified_industry_standard;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="856" y="114" width="102" height="78" as="geometry" />
